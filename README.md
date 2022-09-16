@@ -37,19 +37,9 @@ git clone https://github.com/darfiomar/AppScalr-BackEnd.git
 * Change into project folder 
 
 ```
-cd AppScalr-FrontEnd
+cd AppScalr-BackEnd
 ```
 
-* Install dependencies and compile changes
-
-```
-npm install && npm start
-```
-
-* Open the project in the browser 
-
-```
-http://localhost:4200/
 ```
 ## ScreenShots
 
